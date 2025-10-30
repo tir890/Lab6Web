@@ -97,6 +97,9 @@ Form input yang sebelumnya dibuat manual kini menggunakan class Bootstrap untuk 
 
 ---
 
+### Hasil Akhir
+![Foto](https://github.com/tir890/Lab6Web/blob/b50c0c4c3d81737dba4e82f7eb2780bf4f32e5f9/bootstrap.png)
+
 ### 6. Membuat Halaman Portfolio Sederhana
 
 File baru `portfolio.html` dibuat dengan struktur:
