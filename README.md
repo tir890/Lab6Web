@@ -127,7 +127,7 @@ Contoh struktur:
 
 **2. Halaman Portfolio**
 
-> !Tambahkan screenshot di sini](https://github.com/tir890/Lab6Web/blob/ac49036912412a1ea047dce1673f19e5454b60f5/portfolio.png)
+> ![Tambah](https://github.com/tir890/Lab6Web/blob/ac49036912412a1ea047dce1673f19e5454b60f5/portfolio.png)
 
 ---
 
